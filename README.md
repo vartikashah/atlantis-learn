@@ -12,7 +12,7 @@ To run this code you need to first install some tools into your computer.
 	pip install ansible
 	```
 
-1. Terraform must also be installed by:
+1. Terraform must also be installed:
 
 	<https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli>
 
